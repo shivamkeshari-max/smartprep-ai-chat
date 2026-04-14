@@ -1,4 +1,4 @@
-# SmartPrep AI - Study Assistant
+# Built an AI-powered study assistant with interactive chat UI using HTML, CSS, and JavaScript
 
 A simple web-based study companion that allows users to enter a topic and receive:
 
